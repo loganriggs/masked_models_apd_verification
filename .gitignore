@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Project directories - ignore contents but keep structure
+checkpoints/*
+data/*
+figures/*
+masks/*
+plots/*
+results/*
+!**/.gitkeep
+venv/
